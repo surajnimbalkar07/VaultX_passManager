@@ -46,7 +46,7 @@ VaultX allows users to delete passwords when needed, providing flexibility in ma
 2. Enter the website, username, and password.
 3. Click the "Submit" button to save the password securely.
 
-4. ![Screenshot 2024-02-25 214621](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/3411a3e6-f427-4577-9419-fd51ed9005c1)
+ ![Screenshot 2024-02-25 214621](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/3411a3e6-f427-4577-9419-fd51ed9005c1)
 
 
 ### Managing Passwords:
