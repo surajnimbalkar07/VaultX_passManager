@@ -42,7 +42,9 @@ Learn about VaultX's mission and commitment to providing a secure and organized 
 
 ![Screenshot 2024-02-25 215241](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/f6b1acec-854f-4549-8fde-29687c7cf4e9) 
 
+
 ### Contact Us Section:
+
 
 
 ![Screenshot 2024-02-25 215256](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/7bec57ac-361d-4f27-a041-6c62260c011f)
@@ -70,7 +72,8 @@ VaultX allows users to delete passwords when needed, providing flexibility in ma
 2. Enter the website, username, and password.
 3. Click the "Submit" button to save the password securely.
 
- ![Screenshot 2024-02-25 214621](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/3411a3e6-f427-4577-9419-fd51ed9005c1)
+![Screenshot 2024-02-25 214621](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/21e9eb88-350b-42a7-9d05-abe76e80c20f)
+
 
 
 ### Managing Passwords:
@@ -79,7 +82,8 @@ VaultX allows users to delete passwords when needed, providing flexibility in ma
 2. Easily copy usernames, passwords, or website names for quick access.
 
 
-![Screenshot 2024-02-25 214755](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/beb8eb68-a10d-4ddc-82b3-9024d460e677)
+![Screenshot 2024-02-25 214755](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/b9dbba5a-0681-433e-bb27-1da5d4ba5a10)
+
 
 
 ### Deleting Passwords:
