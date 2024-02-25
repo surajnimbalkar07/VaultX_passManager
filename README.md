@@ -98,20 +98,19 @@ Delete passwords you no longer need with the simple "Delete" button.
    - Clone the VaultX repository to your local machine.
    -  Run the following command to clone the VaultX repository to your local machine:
   
-      
-     ```bash
 
-     
+
+     ```bash
      git clone https://github.com/your-username/vaultx-website.git
      ```
 
    - This will download the repository and its files to your current directory.
 
-2. **Explore the Website:**
+1. **Explore the Website:**
    - Open the HTML files in your web browser.
    - Explore the different sections and functionalities provided by VaultX.
 
-3. **Contribute and Enhance:**
+2. **Contribute and Enhance:**
    - VaultX is an open-source project. Feel free to contribute, suggest improvements, or report issues to make it even better.
    - Contributions are welcome! If you have suggestions, improvements, or find any issues, please feel free to submit a pull request or open an issue. For major changes, please open a discussion first to discuss 
      the proposed changes.
