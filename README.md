@@ -98,7 +98,7 @@ Delete passwords you no longer need with the simple "Delete" button.
    - Clone the VaultX repository to your local machine.
    -  Run the following command to clone the VaultX repository to your local machine:
   
-   -  
+      
      ```bash
 
      
