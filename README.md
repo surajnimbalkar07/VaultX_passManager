@@ -22,13 +22,27 @@ Copy and paste your credentials with ease whenever you need them. VaultX makes t
 
 ## What VaultX Offers:
 
+
+### Home Section:
+
+
+
+![Screenshot 2024-02-25 215217](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/54b0362f-23f6-4dea-8f20-0ecfaddc964a) 
+
+
+
 ### About Us Section:
 
 Learn about VaultX's mission and commitment to providing a secure and organized online experience. The About Us page outlines the platform's dedication to simplicity and user-friendly features.
 
 
 
-![Screenshot 2024-02-25 215241](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/f6b1acec-854f-4549-8fde-29687c7cf4e9) ![Screenshot 2024-02-25 215217](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/54b0362f-23f6-4dea-8f20-0ecfaddc964a)  ![Screenshot 2024-02-25 215256](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/7bec57ac-361d-4f27-a041-6c62260c011f)
+![Screenshot 2024-02-25 215241](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/f6b1acec-854f-4549-8fde-29687c7cf4e9) 
+
+### Contact Us Section:
+
+
+![Screenshot 2024-02-25 215256](https://github.com/surajnimbalkar07/VaultX_passManager/assets/136218136/7bec57ac-361d-4f27-a041-6c62260c011f)
 
 
 
